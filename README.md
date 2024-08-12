@@ -2,7 +2,14 @@
 
 ###
 
-<h4 align="left">Meu nome é Isabelle, tenho 22 anos e atualmente faço tecnólogo em Analise e Desenvolvimento de Sistemas e estou no 1° Semestre.<br>Sou apaixonada pela tecnologia e amo ler um romance bem clichê nas horas vagas! <br>Fora da faculdade estudo Front End pela Origamid, além de já ter cursos de GitHub e Git pela Udemy, Introdução a Segurança da Informação e Microsoft Power BI, estou sempre buscando algo diferente para aprender e se tiver uma sugestão, irei amar saber!!</h4>
+<h4 align="left">
+  - Isabelle;
+  - 22 anos;
+  - Análise e Desenvolvimento de Sistemas (1° Semestre);
+  - Estudante de Frontend iniciante;
+  - Leitora Senior de Romances e Fantasias.
+  
+</h4>
 
 ###
 
