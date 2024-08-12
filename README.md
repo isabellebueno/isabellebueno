@@ -1,6 +1,3 @@
-<body>
-<h1>Oii, meu nome é Isa e essa é uma tentativa de organizar meu GitHub (Deu certo?)</h1>
-<p>
-<a href="www.linkedin.com/in/isabellebueno">
-Me sigam no LinkedIn!
-</a>
+Olá, meu nome é Isabelle!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?isabellebueno=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
