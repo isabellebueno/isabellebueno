@@ -3,11 +3,11 @@
 ###
 
 <h4 align="left">
-  - Isabelle;
-  - 22 anos;
-  - Análise e Desenvolvimento de Sistemas (1° Semestre);
-  - Estudante de Frontend iniciante;
-  - Leitora Senior de Romances e Fantasias.
+  <p>- Isabelle;</p>
+  <p>- 22 anos;</p>
+  <p>- Análise e Desenvolvimento de Sistemas (1° Semestre);</p>
+  <p>- Estudante de Frontend iniciante;</p>
+  <p>- Leitora Senior de Romances e Fantasias./p>
   
 </h4>
 
