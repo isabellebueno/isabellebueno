@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Isabelle;<br>- 22 anos;<br>- Análise e Desenvolvimento de Sistemas (1° Semestre);<br>- Estudante de Frontend iniciante;<br>- Leitora Sênior de Romances e Fantasias.</p>
+<p align="left">- Isabelle;<br>- 22 anos;<br>- Análise e Desenvolvimento de Sistemas (2° Semestre);<br>- Estudante de Frontend iniciante;<br>- Leitora Sênior de Romances e Fantasias.</p>
 
 ###
 
